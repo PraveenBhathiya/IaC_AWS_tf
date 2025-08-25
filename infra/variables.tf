@@ -1,6 +1,6 @@
 variable "project_name" {
     type = string
-    default = "tf-gitlab-demo"
+    default = "tf-github-demo"
     description = "Project tag and S3 prefix"
 }
 
